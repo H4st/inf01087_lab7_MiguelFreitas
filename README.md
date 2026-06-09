@@ -1,1 +1,4 @@
-# inf01087_lab7_MiguelFreitas
+# Laboratório de GitHub 
+Nome: Miguel Freitas da Rosa
+Curso: Ciência da Computação 
+Disciplina: INF01087
